@@ -1,0 +1,61 @@
+{"DIALOGUE":
+	[
+		["...That man from last night is back.", ""],
+		["_func",
+			[
+				["addActor", 2, "sTalksprites_Michael"], 
+				["playMusic", "musMidnight_Michael", 1], 
+				["fadeMusic", "musMidnight_Michael", 1, 0]
+			]
+		],
+		
+		["You know...I can't help but wonder what it is you're trying to accomplish here.", "Hooded Man"],
+		["_func", [["setActor", 1]]],
+		["Is your boss giving you a bonus for these? Are you just...curious what might happen?", "Hooded Man"],
+		["_func", [["setActor", 2]]],
+		["I just...struggle to see what your motive is here, especially when I doubt you even know what these things even are.", "Hooded Man"],
+		["_func", [["setActor", 0]]],
+		["...The rabbit, for example. Do you know who - or what, exactly - he is?", "Hooded Man"],
+		["...Does it really matter? Apart from looking at me a little weird, I haven't given him a second thought.", "Wrecking Ball"],
+		["_func", [["setActor", 1]]],
+		["That's exactly the problem. Do you have any idea the consequences that may occur as a result of freeing him and the others?", "Hooded Man"],
+		["_func", [["setActor", 4]]],
+		["...Apparently not, if this is your reaction.", "Hooded Man"],
+		["_func", [["setActor", 0]]],
+		["...", "Hooded Man"],
+		["_func", [["setActor", 2]]],
+		["...Listen. Let me tell you about this...friend I once knew.", "Hooded Man"],
+		["_func", [["setActor", 0]]],
+		["He was a bit rough around the edges, made plenty of mistakes...but he had a good heart.", "Hooded Man"],
+		["_func", [["setActor", 1]]],
+		["Always wanted to do the right thing, you know? And I liked that about him.", "Hooded Man"],
+		["_func", [["setActor", 5]]],
+		["...Yet he was also horribly stubborn. He had this hare-brained plan, and he insisted he do it all himself. \"His cross to bear\", so he said.", "Hooded Man"],
+		["_func", [["setActor", 1]]],
+		["He became obsessed. Fully submerged in his work.", "Hooded Man"],
+		["_func", [["setActor", 2]]],
+		["Maybe because he was in over his head, or maybe just to try and drown out his guilt...", "Hooded Man"],
+		["_func", [["setActor", 0]]],
+		["...But soon, he began meddling with forces far outside his control.", "Hooded Man"],
+		["_func", [["setActor", 1]]],
+		["Do you want to know what happened to him?", "Hooded Man"],
+		["_func", [["setActor", 4]]],
+		["...He turned up dead. His brains splattered across the walls of his study.", "Hooded Man"],
+		["_func", [["setActor", 0]]],
+		["Maybe you won't realize it now, maybe you won't even realize it until after it's too late...", "Hooded Man"],
+		["_func", [["setActor", 3]]],
+		["...But you'll come to realize these things were sealed away for a reason.", "Hooded Man"],
+		["_func",
+			[
+				["removeActor"], 
+				["fadeMusic", "musMidnight_Michael", 0, 1000]
+			]
+		],
+		
+		["...And so, the man vanishes back into the darkness yet again. His stare seems to pierce right through you as he walks away...", ""],
+		["Who does that guy think he's talking to?", "Wrecking Ball"],
+		["I don't need to 'realize' anything. Though it would be helpful if he'd actually tell me what I'm doing.", "Wrecking Ball"],
+		["...Well, his loss. I'll just have to continue down this path until I make him talk.", "Wrecking Ball"],
+		["_func", [["salvage"]]]
+	]
+} 

@@ -1,0 +1,78 @@
+{"DIALOGUE":
+	[
+		["That makes two...", "Wrecking Ball"],
+		["I get the feeling I'm not going to get to punch anyone...but slamming the doors in those bots' faces is pretty satisfying.", "Wrecking Ball"],
+		["_skip"],
+		["I don't think I want any more surprises, though-", "Wrecking Ball"],
+		["_func",
+			[
+				["addActor", 1, "sTalksprites_Vanny"], 
+				["playMusic", "musMidnight_Vanny", 1], 
+				["fadeMusic", "musMidnight_Vanny", 1, 0]
+			]
+		],
+		
+		["Ah, THERE you are~!", "White Rabbit"],
+		["HEY! You looking for a fight!?", "Wrecking Ball"],
+		["_effect", 23, 31, "Shake"],
+		["_func", [["setActor", 2]]],
+		["Uhh, no?", "White Rabbit"],
+		["_func", [["setActor", 0]]],
+		["I'm much more interested in the fight YOU'VE signed yourself up for!", "White Rabbit"],
+		["Sorry, lady, but I don't think I'm gonna be able to battle any of these animatronics myself.", "Wrecking Ball"],
+		["_func", [["setActor", 3]]],
+		["C'mon, you aren't fooling me, Mr. Just-So-Happened-To-Salvage-The-One-And-Only-Springtrap-Last-Night!", "White Rabbit"],
+		["_func", [["setActor", 5]]],
+		["Nobody takes HIM home with them unless they know exactly who he is.", "White Rabbit"],
+		["Springtrap? Pretty much all of the animatronics have springs. And seem to be elaborate traps.", "Wrecking Ball"],
+		["_func", [["setActor", 3]]],
+		["You knooooow...the yellow rabbit? The spring bunny?", "White Rabbit"],
+		["That mangled-looking suit?", "Wrecking Ball"],
+		["Didn't seem like a great sparring partner, but I wanted the extra cash.", "Wrecking Ball"],
+		["_func", [["setActor", 6]]],
+		["(Jeez, this guy's such a rock-head...)", "White Rabbit"],
+		["_func", [["setActor", 3]]],
+		["So you really have no idea what you've got on your hands, here? Heeheehee...", "White Rabbit"],
+		["What are you supposed to be, anyway? I've not got a great track record with plush-looking creatures... "Wrecking Ball"],
+		["_func", [["setActor", 2]]],
+		["Hey! There's a human behind this suit, for your information!, "White Rabbit"],
+		["_func", [["setActor", 3]]],
+		["Anyways, you could call me a...collector. A collector of Freddy's memorabilia, in fact!, "White Rabbit"],
+		["_func", [["setActor", 1]]],
+		["And the animatronics- well, they're the grand prize for any big fan, right~?", "White Rabbit"],
+		["_func", [["setActor", 5]]],
+		["That 'mangled suit' you salvaged is actually quite the collector's item! Real one-of-a-kind stuff right there.", "White Rabbit"],
+		["Oh...you fancy taking it off my hands?", "Wrecking Ball"],
+		["_func", [["setActor", 2]]],
+		["Yes! ...But not yet.", "White Rabbit"],
+		["_func", [["setActor", 5]]],
+		["See, as a...collector...just one animatronic isn't enough. I need the whole set.", "White Rabbit"],
+		["_func", [["setActor", 1]]],
+		["Ol' Springy's just the first...there's four in total!", "White Rabbit"],
+		["_func", [["setActor", 0]]],
+		["The rest are gonna be just as well-hidden, but you should find 'em all at the other Freddy's locations.", "White Rabbit"],
+		["_func", [["setActor", 4]]],
+		["...If you plan on visiting them like you did last night, at least.", "White Rabbit"],
+		["...", "Wrecking Ball"],
+		["I guess it sounds like a good challenge.", "Wrecking Ball"],
+		["_func", [["setActor", 0]]],
+		["That's the spirit! Find all of those animatronics...", "White Rabbit"],
+		["_func", [["setActor", 3]]],
+		["...And I'll give you a challenge you'll NEVER forget!", "White Rabbit"],
+		["_func", [["setActor", 1]]],
+		["Until then, I'll see ya around, cutie~!", "White Rabbit"],
+		["_func",
+			[
+				["removeActor"], 
+				["fadeMusic", "musMidnight_Vanny", 0, 1000]
+			]
+		],
+		
+		["...And, just as suddenly as she appeared, the mysterious white rabbit disappeared into the darkness.", ""],
+		["...Gross.", "Wrecking Ball"],
+		["Didn't like how she phrased that last part...but I guess there's no harm in looking for the rest.
+", "Wrecking Ball"],
+		["Alright, back to work.", "Wrecking Ball"],
+		["_func", [["salvage"]]]
+	]
+} 

@@ -1,0 +1,19 @@
+{
+	"new_cassidy_dialogue": "true",
+	"molten_freddy": [["...Awful...what IS this...?", "Wrecking Ball"], ["_effect", 0, 26, "Shake"]],
+	"circus_baby": [["_skip"], ["No way, I've got enough nuisances to look-", "Wrecking Ball"]],
+	"animdude": [
+		["...Doesn't really seem like you're fit for this position.", "Animdude"],
+		["Uh, WHAT?", "Wrecking Ball"],
+		["Heheh, those are fighting words, aren't they!?", "Wrecking Ball"],
+		["_effect", 17, 32, "Shake"],
+		["Uh, no? What I mean, is...", "Animdude"],
+		["If you were to be jumpscared by one of these guys...how would they fit you inside a suit?", "Animdude"],
+		["You can barely put on the mask as-is.", "Animdude"],
+		["...Oh.", "Wrecking Ball"],
+		["...I still want to fight you, though.", "Wrecking Ball"],
+		["You can try.", "Animdude"]
+	],
+	"popgoes": [["Huh...guess that'd make you myPOPGOES, then?", "Wrecking Ball"]],
+	"rodney": [["...That might just be...THE funniest thing I have ever heard.", "Wrecking Ball"]]
+}

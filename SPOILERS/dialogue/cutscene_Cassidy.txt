@@ -1,0 +1,29 @@
+{"DIALOGUE":
+	[
+		["Sometimes...it feels like life is just one battle after another, huh?", "Wrecking Ball"],
+		["Can't say I've ever been through...THIS, but, I do get that feeling sometimes.", "Wrecking Ball"],
+		["That feeling of...giving up. Letting the world around you grind to a halt.", "Wrecking Ball"],
+		["But, each and every time, something's gotten me back up. And when I do...I start seeing new things again.", "Wrecking Ball"],
+		["New people, new friends...new experiences, and new challenges...", "Wrecking Ball"],
+		["They may not all be GOOD things, but if you just keep pushing through, you'll find something- or someone- to keep getting you back up.", "Wrecking Ball"],
+		["And when you do...you might just forget you ever wanted the world to stop in the first place.", "Wrecking Ball"],
+		["But...what if...when I leave...that's it? What if I won't be able to go...anywhere?", "Cassidy"],
+		["I'll just be stuck in some dark place...forever...?", "Cassidy"],
+		["...Heh. Don't worry. You don't actually have to WALK all that way.", "Wrecking Ball"],
+		["Moving forward can just mean... getting out of your current situation.", "Wrecking Ball"],
+		["You can keep moving by apologizing to your friends- by letting them move on...", "Wrecking Ball"],
+		["...And by admitting to yourself that you deserve better than this.", "Wrecking Ball"],
+		["Let's be real: do you really want to spend the rest of eternity stuck in the body of a demented nightmare bear?", "Wrecking Ball"],
+		["...No...", "Cassidy"],
+		["If you don't keep seeing new things, and don't keep changing because of them...", "Wrecking Ball"],
+		["...You might never discover...who you truly are.", "Wrecking Ball"],
+		["So. If I could be that something for you...", "Wrecking Ball"],
+		["Would you get back up, and see where it takes you?", "Wrecking Ball"],
+		["...", "Cassidy"],
+		["...Okay... I can do that.", "Cassidy"],
+		["Heheh...you got guts, kid.", "Wrecking Ball"],
+		["If you ever find yourself alone...remember that friends are just a few more steps away.", "Wrecking Ball"],
+		["...Haha, yeah...", "Cassidy"],
+		["It's...", "Cassidy"]
+	]
+}

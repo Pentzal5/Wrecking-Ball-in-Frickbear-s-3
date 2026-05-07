@@ -1,0 +1,64 @@
+{"DIALOGUE":
+	[
+		["There she is...", "Wrecking Ball"],
+		["_func",
+			[
+				["addActor", 1, "sTalksprites_Vanny"], 
+				["playMusic", "musMidnight_Vanny", 1], 
+				["fadeMusic", "musMidnight_Vanny", 1, 0]
+			]
+		],
+		
+		["Well, well, well! Look at you, you little lunatic! You actually pulled through!", "White Rabbit"],
+		["_func", [["setActor", 2]]],
+		["Mweeheehee, I was honestly expecting you to flake on me... I guess you must be some sorta masochist, huh?", "White Rabbit"],
+		["I just like a good challenge. Where's the harm in that?", "Wrecking Ball"],
+		["_func", [["setActor", 5]]],
+		["Of course, of course! Can't make an omelette...", "White Rabbit"],
+		["What's up with these back-room bots, though?", "Wrecking Ball"],
+		["That off-brand-looking Freddy...I've seen old animatronics and new ones, but none of them match whatever this model is.", "Wrecking Ball"],
+		["_func", [["setActor", 0]]],
+		["Oh, I wouldn't worry too much about the specifics...", "White Rabbit"],
+		["_func", [["setActor", 5]]],
+		["The rest of them are probably a little out of your price range.", "White Rabbit"],
+		["...Rest of them, huh?", "Wrecking Ball"],
+		["But this still counts as part of YOUR set, right?", "Wrecking Ball"],
+		["_func", [["setActor", 1]]],
+		["Yes, that's right! I suppose it isn't exactly a PHYSICAL collection...more like an EMOTIONAL one.", "White Rabbit"],
+		["What's THAT supposed to mean?", "Wrecking Ball"],
+		["_func", [["setActor", 2]]],
+		["...Huh, you really don't know anything about this place...", "White Rabbit"],
+		["_func", [["setActor", 5]]],
+		["Y'know, you should REALLY do more research before working with someone...I know I have!", "White Rabbit"],
+		["Well, you seem to be pretty obsessed with this franchise. Why don't you tell me about it?", "Wrecking Ball"],
+		["_func", [["setActor", 1]]],
+		["Oh, I'd LOVE to!", "White Rabbit"],
+		["_func", [["setActor", 2]]],
+		["...It'll have to wait for tomorrow, though.", "White Rabbit"],
+		["_func", [["setActor", 3]]],
+		["After all, we both have work to do, don't we?", "White Rabbit"],
+		["...So you're still going to keep me in the dark, then.", "Wrecking Ball"],
+		["_func", [["setActor", 0]]],
+		["Oh, I wouldn't phrase it like that...I like to think of it more like a surprise!", "White Rabbit"],
+		["_func", [["setActor", 1]]],
+		["Carrot-and-stick, my friend! What fun is a task if you don't have a prize waiting for you at the end?", "White Rabbit"],
+		["Carrot-and-stick? Doesn't that imply...", "Wrecking Ball"],
+		["_func", [["setActor", 4]]],
+		["...Huh?", "White Rabbit"],
+		["_func", [["setActor", 2]]],
+		["...Oh, nothing, nothing! I think I just used the wrong saying there, mweehee...", "White Rabbit"],
+		["_func", [["setActor", 1]]],
+		["Either way, I'll see you tomorrow. Don't let me down~!", "White Rabbit"],
+		["_func",
+			[
+				["removeActor"], 
+				["fadeMusic", "musMidnight_Vanny", 0, 1000]
+			]
+		],
+		
+		["And so, the white rabbit disappeared into the darkness yet again.", ""],
+		["This is giving me deja vu...", "Wrecking Ball"],
+		["Oh well. Might as well see where this goes.", "Wrecking Ball"],
+		["_func", [["salvage"]]]
+	]
+} 

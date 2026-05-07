@@ -1,0 +1,21 @@
+{
+	"player_height": 36,
+	"player_sneak_height": 12,
+
+	"maze_rules_poster": [["(I mean...I get it. If you don't specify...)", "Wrecking Ball"]],
+	"maze_newspaper_1": [["...Feels like everything gets canned eventually.", "Wrecking Ball"]],
+	"maze_newspaper_2": [["Heh. Should've been made out of stone.", "Wrecking Ball"],
+			["...Okay, I guess that is still concerning.", "Wrecking Ball"]],
+	"maze_newspaper_3": [["...Yeah...it is pretty funny.", "Wrecking Ball"]],
+	
+	"upgrade_cadet_story": [["Isn't this just that one children's story?", "Wrecking Ball"],
+		["YOU ASKED FOR A STORY. I AM TELLING YOU A STORY. I DO NOT SEE THE ISSUE.", "Upgrade Cadet"],
+		["I could've just looked it up! Couldn't you add, I dunno, thematically appropriate elements?", "Wrecking Ball"],
+		["IT IS A GOOD STORY. ANY ALTERATIONS WOULD DISTRACT FROM ITS MESSAGE.", "Upgrade Cadet"],
+		["...I'm not happy.", "Wrecking Ball"]],
+	"withered_bonnie": "bola de concreto",
+	"bb_quiz_answer": "A Real Challenge",
+	"helpy": [["_skip"], ["You're even smaller than me! How could you possibly-", "Wrecking Ball"]],
+	"psy_friend_fredbear_house": [["...This house has the same number of deadly machines as all the big establishments?", "Wrecking Ball"]],
+	"dreadbear": [["YOU! BALL OF WRECKENING!", "Dreadbear"]]
+}

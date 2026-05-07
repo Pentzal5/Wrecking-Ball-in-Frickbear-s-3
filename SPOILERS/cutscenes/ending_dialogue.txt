@@ -1,0 +1,12 @@
+{"DIALOGUE":
+["Sometimes... it feels like life is just one battle after another, huh?",
+"Can't say I've ever been through... THIS, but, I do get that feeling sometimes.",
+"That feeling of... giving up. Letting the world around you grind to a halt.",
+"But, each and every time, something's gotten me back up. And when I do... I start seeing new things again.",
+"New people, new friends... new experiences, and new challenges...",
+"They may not all be GOOD things, but if you just keep pushing through, you'll find something- or someone- to keep getting you back up.",
+"And when you do... you might just forget you ever wanted the world to stop in the first place.",
+"As things stand, it's not like you're going to get much more out of this demented hellscape, yeah?",
+"So... if I could be that something for you... would you keep pushing, and see where it takes you?"],
+"FIRST_PERSON":"true",
+"PHOTO_CAPTION":"Wrecking Ball used his paltry funds to meet up with some of his old friends from the camp days. Together, they went back to the bloon scientist... and beat the everloving snot out of him."}

@@ -1,0 +1,35 @@
+{"DIALOGUE":
+	[
+		["Well. That's one shift down.", "Wrecking Ball"],
+		["These animatronics are made of sturdy stuff...", "Wrecking Ball"],
+		["_skip"], ["Almost makes me think I got short-changed when I was working at-", "Wrecking Ball"],
+		["_delay", 120], ["_func", [["playSound", "sfxPhoneRing", 10, true]]],
+		["...What is this.", "Wrecking Ball"],
+		["_func",
+			[
+				["stopSound", "sfxPhoneRing"],
+				["playSound", "sfxPhonePickup", 10, false]
+			]
+		],
+		["_delay", 120],
+		["Ring ring! Hey, is this stupid thing on?", "The Boss"],
+		["_func", [["playMusic", "musMidnight_TheBoss", 0.5]]],
+		["Hey, stooge! Great work tonight or whatever.", "The Boss"],
+		["Big news! Your good-for-nothing coworker isn't picking up his calls, so it looks like you get to work overtime!", "The Boss"],
+		["_skip", true], ["Woah woah woah, I didn't sign up for-", "Wrecking Ball"],
+		["Bah, quit your whining! You're still getting paid for this, you know.", "The Boss"],
+		["Go to the address I sent you! Some chump will explain the rest when you get there.", "The Boss"],
+		["Good luck or whatever!", "The Boss"],
+		["_skip", true], ["So when exactly do I get to go to-", "Wrecking Ball"],
+		["_func",
+			[
+				["stopSound", "musMidnight_TheBoss"],
+				["playSound", "sfxPhonePickup", 10, false]
+			]
+		],
+		["_delay", 120],
+		["...You wanted a challenge. You get a challenge.", "Wrecking Ball"],
+		["Let's get started.", "Wrecking Ball"],
+		["_func", [["salvage"]]]
+	]
+}

@@ -1,0 +1,12 @@
+{"DIALOGUE":
+["Heya. I'm a Wrecking Ball.",
+"Ever since that old camp stopped, I've been roaming from place to place, looking for a real challenge.",
+"Battle arenas... other competition shows... tried making one of my own, too.",
+"Even found a flyer for 'genetic modification', and it ended in some deranged floating balloon scientist trying to kill me.",
+"I wouldn't have minded, honestly, if he wasn't such a self-satisfied windbag.",
+"But this place... I could hear it in the boss' demeanour. This is a REAL challenge.",
+"You know, I've actually managed a pizza place once. Could consider this a bit of a downgrade, really.",
+"But hey, I don't own these animatronics. Which means I'm free to take my anger out on 'em.",
+"...I think.",
+"I didn't actually read the contract."],
+"FIRST_PERSON":"true"}
