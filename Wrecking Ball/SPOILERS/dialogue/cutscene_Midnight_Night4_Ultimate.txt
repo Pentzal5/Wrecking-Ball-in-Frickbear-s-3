@@ -36,8 +36,8 @@
 		["No.", "Wrecking Ball"],
 		["_func", [["setActor", 4]]],
 		["...You mean to tell me you haven't heard of the single most infamous event in this company's entire history?", "White Rabbit"],
-		["No! Now would you quit grand-standing and just tell me what it is!?"]
-		["_effect", 0, 4, "Shake"],
+		["No! Now would you quit grand-standing and just tell me what it is!?", "Wrecking Ball"],
+		["_effect", 0, 3, "Shake"],
 		["...", "White Rabbit"],
 		["_func", [["setActor", 5]]],
 		["Well, if you insist...", "White Rabbit"],

@@ -12,7 +12,6 @@
 		["You can barely put on the mask as-is.", "Animdude"],
 		["...Oh.", "Wrecking Ball"],
 		["...I still want to fight you, though.", "Wrecking Ball"],
-		["You can try.", "Animdude"]
 	],
 	"popgoes": [["Huh...guess that'd make you myPOPGOES, then?", "Wrecking Ball"]],
 	"rodney": [["...That might just be...THE funniest thing I have ever heard.", "Wrecking Ball"]]

@@ -15,7 +15,7 @@
 		["Yep. That last game didn't put up nearly as much of a fight as the first one, though.", "Wrecking Ball"],
 		["_func", [["setActor", 2]]],
 		["Er, sure... Well, I had a feeling I could count on you.", "Michael"],
-		["The security they have on these things is...certainly tight. Needing to deliver a physical present to a physical puppet..", "Wrecking Ball"],
+		["The security they have on these things is...certainly tight. Needing to deliver a physical present to a physical puppet...", "Wrecking Ball"],
 		["_func", [["setActor", 0]]],
 		["...Puppet?", "Michael"],
 		["Yeah- but not like the kind that just sulks in the box. In fact, this one gave me the mask in exchange for that present.", "Wrecking Ball"],
