@@ -48,7 +48,7 @@
 		["_func", [["setActor", 0]]],
 		["Though, personally...I like to think of him as a LOT more than that.", "White Rabbit"],
 		["(EURGH.)", "Wrecking Ball"],
-		["_effect", 0, 5, "Shake"],
+		["_effect", 0, 7, "Shake"],
 		["_func", [["setActor", 2]]],
 		["It's really a shame though, isn't it? He spent so long in the big guy's shadow, he never got a chance to shine...", "White Rabbit"],
 		["Oh, right. Half of a duo, huh?", "Wrecking Ball"],

@@ -11,10 +11,8 @@
 				["fadeMusic", "musMidnight_Vanny", 1, 0]
 			]
 		],
-		
 		["Ah, THERE you are~!", "White Rabbit"],
-		["HEY! You looking for a fight!?", "Wrecking Ball"],
-		["_effect", 23, 31, "Shake"],
+		["HEY! You looking for a fight!?", "Wrecking Ball"], ["_effect", 23, 30, "Shake"],
 		["_func", [["setActor", 2]]],
 		["Uhh, no?", "White Rabbit"],
 		["_func", [["setActor", 0]]],
@@ -33,11 +31,11 @@
 		["(Jeez, this guy's such a rock-head...)", "White Rabbit"],
 		["_func", [["setActor", 3]]],
 		["So you really have no idea what you've got on your hands, here? Heeheehee...", "White Rabbit"],
-		["What are you supposed to be, anyway? I've not got a great track record with plush-looking creatures... "Wrecking Ball"],
+		["What are you supposed to be, anyway? I've not got a great track record with plush-looking creatures...", "Wrecking Ball"],
 		["_func", [["setActor", 2]]],
-		["Hey! There's a human behind this suit, for your information!, "White Rabbit"],
+		["Hey! There's a human behind this suit, for your information!", "White Rabbit"],
 		["_func", [["setActor", 3]]],
-		["Anyways, you could call me a...collector. A collector of Freddy's memorabilia, in fact!, "White Rabbit"],
+		["Anyways, you could call me a...collector. A collector of Freddy's memorabilia, in fact!", "White Rabbit"],
 		["_func", [["setActor", 1]]],
 		["And the animatronics- well, they're the grand prize for any big fan, right~?", "White Rabbit"],
 		["_func", [["setActor", 5]]],
@@ -67,12 +65,10 @@
 				["fadeMusic", "musMidnight_Vanny", 0, 1000]
 			]
 		],
-		
 		["...And, just as suddenly as she appeared, the mysterious white rabbit disappeared into the darkness.", ""],
 		["...Gross.", "Wrecking Ball"],
-		["Didn't like how she phrased that last part...but I guess there's no harm in looking for the rest.
-", "Wrecking Ball"],
+		["Didn't like how she phrased that last part...but I guess there's no harm in looking for the rest.", "Wrecking Ball"],
 		["Alright, back to work.", "Wrecking Ball"],
 		["_func", [["salvage"]]]
 	]
-} 
+}
