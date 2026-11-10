@@ -1,0 +1,314 @@
+{
+	"GENERIC":
+	[
+		["Cheers, mate.", "Wrecking Ball"],
+		["You seem like you've got a good enough head on your shoulders.", "Wrecking Ball"],
+		["S'more than I can say, anyway.", "Wrecking Ball"],
+		["What say you and me market our variable body shapes and become a dynamic duo?", "Wrecking Ball"]
+	],
+	"Jeremy":
+	[
+		["Hey, thanks.", "Wrecking Ball"],
+		["I see the world's not been kind to you either, eh?", "Wrecking Ball"],
+		["Hahah! From a certain point of view, I suppose!", "Jeremy"],
+		["But every new scrape is a learning experience! I see you've got a few of your own!", "Jeremy"],
+		["Huh? Oh, the chips?", "Wrecking Ball"],
+		["Uh...I've always been like this.", "Wrecking Ball"],
+		["H-huh?", "Jeremy"],
+		["Yeah. Can't say I've ever really taken a hit that leaves scars like yours.", "Wrecking Ball"],
+		["...", "Jeremy"],
+		["Honestly? Kind of sounds like a skill issue.", "Wrecking Ball"],
+		["OKAY I think I've spent enough time hanging around! Would you like to join me anyway?", "Jeremy"],
+		["Hmph. Sure. But stay out of the way if you know what's good for you.", "Wrecking Ball"]
+	],
+	"Mike":
+	[
+		["Cheers.", "Wrecking Ball"],
+		["...", "Mike"],
+		["...", "Wrecking Ball"],
+		["...Not much for conversation, are you?", "Mike"],
+		["Not really.", "Wrecking Ball"],
+		["...", "Mike"],
+		["...", "Wrecking Ball"],
+		["Nice.", "Mike"],
+		["Nice.", "Wrecking Ball"],
+	],
+	"Vanessa":
+	[
+		["Thanks, lady. I'm surprised the eyebrows didn't put you off.", "Wrecking Ball"],
+		["...Or the spherical steel body.", "Wrecking Ball"],
+		["Oh, I'm used to the gruff types. And the scuffed types, too.", "Vanessa"],
+		["Either way, I'm looking to put together a crew.", "Vanessa"],
+		["Your stoutness and groutness are sure to make things happen, so I'd like you to come with me.", "Vanessa"],
+		["Hm...well, I doubt I'll be getting a better opportunity with this sorry lot.", "Wrecking Ball"],
+		["Count me in.", "Wrecking Ball"],
+		["Great!", "Vanessa"],
+		["(What's 'groutness', anyway?)", "Wrecking Ball"]
+	],
+	"Fritz":
+	[
+		["Cheers, mate.", "Wrecking Ball"],
+		["FASCINATING! So this underworld connects us directly from Utah to Britain?", "Fritz"],
+		["Or perhaps it's world-wide...maybe UNIVERSAL!", "Fritz"],
+		["Wrecking Ball! I have a proposition for you!", "Fritz"],
+		["We shall go to the top of the tower together, hand-in-hand...!", "Fritz"],
+		["Then, when the Angel blesses us with its' mercy...!", "Fritz"],
+		["Our arms may very well reach over the oceans!", "Fritz"],
+		["It would be a discovery on par with modern physics!", "Fritz"],
+		["COME! We have much work to be done!", "Fritz"],
+		["...", "Wrecking Ball"],
+		["...I regret calling you 'mate'.", "Wrecking Ball"]
+	],
+	"Vannabelle":
+	[
+		["Thanks, lady.", "Wrecking Ball"],
+		["No problemo! Though, I must confess, I'm mainly here to ask about your outfit.", "Vannabelle"],
+		["That's an incredible suit you’ve got there! The limbs look skin-tight!", "Vannabelle"],
+		["And how are you moving your eyebrows and mouth in real time? You've gotta teach me!", "Vannabelle"],
+		["Uh...sorry, but you're looking at the real thing right here.", "Wrecking Ball"],
+		["A walking, talking wrecking ball. No strings attached.", "Wrecking Ball"],
+		["...You're kidding.", "Vannabelle"],
+		["Nope.", "Wrecking Ball"],
+		["Huh...", "Vannabelle"],
+		["Well, want to come along anyway? Maybe I can glean something about your outer shell in the meantime...", "Vannabelle"],
+		["Sure. But hands off the eyebrows.", "Wrecking Ball"]
+	],
+	"Michael":
+	[
+		["Cheers, mate.", "Wrecking Ball"],
+		["...", "Michael"],
+		["Hey, uh, I don't have any money on me right now, so...", "Wrecking Ball"],
+		["Ah, there it is.", "Michael"],
+		["I was waiting for you to make some sort of snide remark on my appearance.", "Michael"],
+		["Woah, hey. S'much as it displeases me to be assuming, we are in the 'booze capital of the afterlife', right?", "Wrecking Ball"],
+		["Doesn't behoove me to be makin' a friend out of everyone I meet.", "Wrecking Ball"],
+		["We don’t have to be friends, but I believe a mutual partnership would do us both some good.", "Michael"],
+		["At the very least, you're strapped for other options.", "Michael"],
+		["Now who's making assumptions?", "Wrecking Ball"],
+		["...Whatever. I can work with this.", "Wrecking Ball"]
+	],
+	"The Boss":
+	[
+		["Oh. Thanks.", "Wrecking Ball"],
+		["Wah? Why so gloomy, chump! It's-a-me!", "The Boss"],
+		["Look, do YOU like seeing your boss outside of work?", "Wrecking Ball"],
+		["My boss? MY BOSS?", "The Boss"],
+		["My boss is the Hurricanian Public! The voices of a thousand diabetic kids!", "The Boss"],
+		["And their little dinosaur wallets singing along, too!", "The Boss"],
+		["Any sucker I can sell something to is someone to keep around!", "The Boss"],
+		["So, why'd YOU buy ME a drink?", "Wrecking Ball"],
+		["Isn't it obvious, you little sponge? You're gonna cover for me!", "The Boss"],
+		["_skip"], ["Go deal with these buckets of bolts while I make me--", "The Boss"],
+		["Uh, make US...", "The Boss"],
+		["RRRRRRRICH!!", "The Boss"], ["_effect", 0, 99, "Shake"],
+		["...Fine. Whatever.", "Wrecking Ball"]
+	],
+	"Billy":
+	[
+		["Hey, thanks.", "Wrecking Ball"],
+		["Y'know, you remind me of someone I know.", "Wrecking Ball"],
+		["A lot of someones I know, actually. You ever heard of Davidland?", "Wrecking Ball"],
+		["Billy pondered the name for a short duration, before shrugging his shoulders in denial.", ""],
+		["That's fair. The world is a pretty strange place, and anything can happen.", "Wrecking Ball"],
+		["But I've just got a good feeling about you...", "Wrecking Ball"],
+		["Feels like...things are gonna go just fine with you around.", "Wrecking Ball"],
+		["Billy made an expression Wrecking Ball had probably never seen before at that assumption.", ""],
+		["...Uh? Okay??", "Wrecking Ball"]
+	],
+	"Clark Fixy":
+	[
+		["Cheers, mate.", "Wrecking Ball"],
+		["Of course. You gotta look out for your fellow working man.", "Clark"],
+		["...Even if they're a large spherical demolition prop.", "Clark"],
+		["Well, you seem like you've been 'round the block.", "Wrecking Ball"],
+		["How'd you end up in a place like this?", "Wrecking Ball"],
+		["Well, the quantitative answer is nothing too special.", "Clark"],
+		["But I reckon part of my being here is Sloth.", "Clark"],
+		["...Er, I don't recall seeing a sloth animatronic around?", "Wrecking Ball"],
+		["No, no, like, the sin.", "Clark"],
+		["I did what I could, but someone out there probably thinks it wasn't enough.", "Clark"],
+		["Damn. Don't sell yourself short, man. You probably gave those bots a good few years, yeah?", "Wrecking Ball"],
+		["What?", "Clark"],
+		["...Oh. I uh, was referring to something a little more...extracurricular.", "Clark"]
+	],
+	"Fredsweeper Frank":
+	[
+		["Cheers, mate.", "Wrecking Ball"],
+		["The pleasure's all mine! Just raising my social stats!", "Frank"],
+		["...Social stats?", "Wrecking Ball"],
+		["Yeah! If there's one thing games have taught me, it's that high charm can get you a LOT of favors!", "Frank"],
+		["You don't say...", "Wrecking Ball"],
+		["Uhuh! So...whaddya think?", "Frank"],
+		["I think...you're nuts.", "Wrecking Ball"],
+		["H-huh!?", "Frank"], ["_effect", 0, 99, "Shake"],
+		["Maybe if you had, uh...'Savant'-level charm, I'd be more willing to give you stuff.", "Wrecking Ball"],
+		["What!? I, I, I have no idea how to get to that level! You gotta help me!", "Frank"], 
+		["*SNRK* Sure. I'll teach you the Irishman's kiss.", "Wrecking Ball"], ["_effect", 0, 5, "Shake"]
+	],
+	"Henry":
+	[
+		["Thanks.", "Wrecking Ball"],
+		["It's the least I could do.", "Henry"],
+		["Huh? Do you, er, know me from anywhere?", "Wrecking Ball"],
+		["No, but, in your current form, I'm sure...you met a dreadful end from hands I could not arrest.", "Henry"],
+		["Uh...well, no big deal, really.", "Wrecking Ball"],
+		["Wh-no big deal!? You can't possibly tell me being shoved into that ridiculous mascot suit is no big deal!", "Henry"], ["_effect", 3, 16, "Shake"],
+		["This isn't a suit, mate.", "Wrecking Ball"],
+		["...", "Henry"],
+		["...", "Wrecking Ball"],
+		["...I believe we've gotten off on the wrong foot. My name's Henry.", "Henry"],
+		["Okay. Take a wild guess what mine is.", "Wrecking Ball"]
+	],
+	"William":
+	[
+		["Thanks.", "Wrecking Ball"],
+		["...", "Wrecking Ball"],
+		["You, uh, gonna stare at me until I finish this drink?", "Wrecking Ball"],
+		["...Have you ever seen that movie with the blue people and the soldiers?", "William"],
+		["Er...no. Can't say I have.", "Wrecking Ball"],
+		["Good, good...", "William"],
+		["You'll make an excellent partner.", "William"]
+	],
+	"Edwin":
+	[
+		["Cheers, mate. My coffers were starting to look a little dry 'n all.", "Wrecking Ball"],
+		["Oh, well, that simply won't do!", "Edwin"],
+		["You know, if you were to join on at Murray's Costume Manor, you could make quite the modest living for yourself!", "Edwin"],
+		["Oh yeah? What's the pay like?", "Wrecking Ball"],
+		["W-well...I don't have my files on me right now...", "Edwin"],
+		["And we have a bit of a policy...about not discussing salaries...", "Edwin"],
+		["What? How exactly do you get new hires, then?", "Wrecking Ball"],
+		["...", "Edwin"],
+		["...You don't, do you?", "Wrecking Ball"],
+		["Please help me.", "Edwin"]
+	],
+	"Fiona":
+	[
+		["Cheers, lady.", "Wrecking Ball"],
+		["My...are you truly a walking, talking concrete ball?", "Fiona"],
+		["Steel, actually. Don't worry, people mix those two up a lot.", "Wrecking Ball"],
+		["Why, you'd fit right in with my animatronic band! If you're ever in need of an odd job, give me a ring!", "Fiona"],
+		["Sorry, but after tonight, I don't think I'm gonna hang out around these robots much more.", "Wrecking Ball"],
+		["Oh...yes, I suppose that's fair.", "Fiona"],
+		["...", "Wrecking Ball"],
+		["...How much, er, would we theoretically be talking, for this position?", "Wrecking Ball"],
+		["_skip"], ["Well, if you'd be willing to tour the state, I could set you up with royalties to be paid--", "Fiona"],
+		["ROYALTIES!?", "Wrecking Ball"], ["_effect", 0, 99, "Shake"]
+	],
+	"Hudson":
+	[
+		["Hey, thanks.", "Wrecking Ball"],
+		["YOU CAN TALK!?", "Hudson"], ["_effect", 0, 99, "Shake"],
+		["Okay, firstly: ow,", "Wrecking Ball"],
+		["Secondly, what were you expecting? To give some hard liquor to an inanimate object?", "Wrecking Ball"],
+		["YES! Th-this was supposed to be a practice run!", "Hudson"], ["_effect", 0, 99, "Shake"],
+		["I mean, it was going well until you shouted in my ear.", "Wrecking Ball"],
+		["YOU HAVE EARS!?!?", "Hudson"], ["_effect", 0, 99, "Shake"],
+		["Yes!", "Wrecking Ball"],
+		["...Wait, no.", "Wrecking Ball"],
+		["...Wait,", "Wrecking Ball"],
+		["U-uh, how about we uh, talk about this s-somewhere else?", "Hudson"],
+		["Ahah! See? That was pretty smooth!", "Wrecking Ball"]
+	],
+	"Elizabeth":
+	[
+		["...Oh. Er, thanks.", "Wrecking Ball"],
+		["...Aren't you a little young to be buying drinks for strangers?", "Wrecking Ball"],
+		["My daddy says I'm quite mature for my age!", "Elizabeth"],
+		["...You know what? Fine. It's hell. I should just expect these kinds of things.", "Wrecking Ball"]
+	],
+	"Cassie":
+	[
+		["...Oh. Er, thanks.", "Wrecking Ball"],
+		["Hm? Hey, can I see that mask real quick?", "Wrecking Ball"],
+		["_skip"], ["Uh...okay...but it’s super precious to me, so make sure you don’t drop--", "Cassie"],
+		["WH-WHOOPS!", "Wrecking Ball"],
+		["AAAAAIIIIIEEEEE!!!", "Cassie"], ["_effect", 0, 99, "Shake"],
+		["Heheh. Only joking.", "Wrecking Ball"],
+		["YOU-Agh! You're the worst!", "Cassie"],
+		["(Works every time.)", "Wrecking Ball"]
+	],
+	"Mary":
+	[
+		["...Oh. Er, thanks.", "Wrecking Ball"],
+		["Don't mention it.", "Mary"],
+		["You, uh, seem pretty comfortable walking up to an anthropomorphic weapon of destruction.", "Wrecking Ball"],
+		["I think it’s cool.", "Mary"],
+		["...You do?", "Wrecking Ball"]
+	],
+	"Strings":
+	[
+		["Cheers. Glad to see another inorganic around here.", "Wrecking Ball"],
+		["Was getting sick of all the mushy stuff. You know, like brains.", "Wrecking Ball"],
+		["Possibility! Could it be true? Another being with a mechanical endoskeleton!?", "Strings"],
+		["Nope, sorry. Just a wrecking ball.", "Wrecking Ball"],
+		["IMPOSSIBLE! A deadly blunt-force weapon! Holding a job! IN THIS ECONOMY!?", "Strings"], ["_effect", 55, 99, "Shake"],
+		["I think people value clear communication over whether you have a pulse or not, mate.", "Wrecking Ball"],
+		["...Communication! YES! That's what's needed- know how to speak, know when to speak! Isn't that right?", "Strings"],
+		["Uh. Sure.", "Wrecking Ball"],
+		["Observation: response fulfills necessary requirements! Word count...within acceptable social parameters!", "Strings"],
+		["I MUST LEARN THIS BEHAVIOR!!", "Strings"], ["_effect", 0, 99, "Shake"]
+	],
+	"Sally":
+	[
+		["Thanks, lady. Glad to see another inorganic around here.", "Wrecking Ball"],
+		["You're tellin' me. None of these freaks can appreciate a good game.", "Sally"],
+		["RIGHT!? Say, what's your favourite?", "Wrecking Ball"],
+		["Oh, I play all kinds. Chomping With Chica, Endo Chase...even dabble in Hare Pairs from time to time. What about you?", "Sally"],
+		["Uh...I like Fredsweeper!", "Wrecking Ball"],
+		["...What's your second favorite?", "Sally"],
+		["...DoofPix...?", "Wrecking Ball"],
+		["Ugh. Larpers.", "Sally"],
+		["Am NOT! I'll PROVE IT TO YOU!!", "Wrecking Ball"], ["_effect", 8, 99, "Shake"]
+	],
+	"Old Man Consequences":
+	[
+		["Oh. Cheers, Old Man.", "Wrecking Ball"],
+		["Finally climbing this tower yourself, eh?", "Wrecking Ball"],
+		["...Yes. Yes, I suppose I am.", "Old Man"],
+		["It's been far too long, but...promises seldom have expiration dates, do they not?", "Old Man"],
+		["Yeah, true enough.", "Wrecking Ball"],
+		["...Well, it's settled. I've gotta see the master at work!", "Wrecking Ball"],
+		["Oh, no. I would hardly call myself the best equipped for this line of work...", "Old Man"], 
+		["Please, Old Man. When you gave me that pep talk by the lake, I knew...", "Wrecking Ball"],
+		["...That one day, I might have to help you out of here myself.", "Wrecking Ball"],
+		["...Er, forgive me, but...I don't recall ever seeing you outside of this tower.", "Old Man"],
+		["...What?", "Wrecking Ball"],
+		["Oh, yeah, right. That didn't actually happen.", "Wrecking Ball"],
+		["...", ""]
+	],
+	"Luigi (Official Advanced Guard)":
+	[
+		["Hey, thanks.", "Wrecking Ball"],
+		["...You uh, gonna stand there vibrating the whole time?", "Wrecking Ball"],
+		["S-sorry. Just, uh, need to-a calm my nerves.", "Luigi"],
+		["Yeesh. If you're angling for me to return the favour, I'm afraid I’m a little strapped for cash.", "Wrecking Ball"],
+		["O-oh, no no! I just, er, need a friend.", "Luigi"],
+		["Smooth.", "Wrecking Ball"],
+		["...Well, alright. Lead the way, then!", "Wrecking Ball"],
+		["...I was, ah, hoping you would do that.", "Luigi"],
+		["Oh boy.", "Wrecking Ball"]
+	],
+	"Abbie":
+	[
+		["Oh, thanks. Didn't look like the sort to come up to someone like me. Er, shaped like me.", "Wrecking Ball"],
+		["Well, I figure anyone would be pretty happy if you gave them something good!", "Abbie"],
+		["Heheh. First time I've heard someone call 'alcohol' good.", "Wrecking Ball"],
+		["Oh, do you not like it? I thought the bartender got it right...", "Abbie"],
+		["Nah, it's fine.", "Wrecking Ball"],
+		["Do you, er, dote over everyone you meet at bars like this?", "Wrecking Ball"],
+		["Well, it's the best way to make a new friend! Thrill 'em with kindness!", "Abbie"],
+		["That's...incredible. I should probably come make sure that doesn't blow up in your face.", "Wrecking Ball"]
+	],
+	"Plugg":
+	[
+		["Oh, sweet. They've got a walking drinks service. Guess hell isn't good for nothing.", "Wrecking Ball"],
+		["Hey! I'm trying to claim my sense of self over here!", "Plugg"],
+		["...Which, admittedly, is tricky without arms.", "Plugg"],
+		["Alright, alright. What did YOU do to end up here, anyway?", "Wrecking Ball"],
+		["Nothing! ...Which, I think, is part of the problem.", "Plugg"],
+		["Damned dead-end jobs, always wanting you to go above and beyond...", "Wrecking Ball"],
+		["Well, look. I can't let you go running around Faz-Tartarus alone. It'd look bad on animal activists pages.", "Wrecking Ball"],
+		["...Do you want to help me or not??", "Plugg"]
+	]
+}

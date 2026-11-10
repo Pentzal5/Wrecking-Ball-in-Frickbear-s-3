@@ -1,0 +1,3 @@
+[
+	[ "We'll settle this with a contest!" , 0 ]
+]

@@ -1,0 +1,4 @@
+[
+	[ "That's it! I'm out of here!" , 0 ],
+	[ "...I'll be back in two seconds." , 1.6 ]
+]

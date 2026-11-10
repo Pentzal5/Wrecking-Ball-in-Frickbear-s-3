@@ -17,5 +17,51 @@
 	"bb_quiz_answer": "A real challenge",
 	"helpy": [["_skip"], ["You're even smaller than me! How could you possibly-", "Wrecking Ball"]],
 	"psy_friend_fredbear_house": [["...This house has the same number of deadly machines as all the big establishments?", "Wrecking Ball"]],
-	"dreadbear": [["YOU! BALL OF WRECKENING!", "Dreadbear"]]
+	"dreadbear": [["YOU! BALL OF WRECKENING!", "Dreadbear"]],
+
+	"ability": 11,
+	"fld_parameters":
+	{
+		"animatronics": 	     [ 27 ],
+		"unkillable_animatronics":   [ ],
+		"upgrades":                  [ ],
+		"minigames":                 [ 1 , 6 ],
+		"consumables":               [ ],
+		"perma_challenge":           -1,
+		"extra_money":               -10,
+
+		"boosted_animatronics":      [ ],
+		"boosted_shops":             [ ],
+		"disabled_shops":            [ ],
+		"natural_regimen":           -1,
+
+		"upgrades_purchasable":      true,
+		"cartridges_purchasable":    true,
+		"consumables_purchasable":   true,
+
+		"starting_power":            100,
+		"starting_tokens":           0,
+		"minigame_token_multiplier": 1,
+		"blocked_token_multiplier":  1.25,
+		"minigame_power_gain":       0,
+
+		"power_bonus_multiplier":    1,
+		"token_bonus_multiplier":    1,
+		"salvage_bonus_multiplier":  1,
+
+		"shop_discount":             1,
+
+		"power_rate":                1,
+		"temperature_rate":          1,
+		"aggro_multiplier":          1,
+		"starting_quota_increase":   0,
+		"nightly_quota_increase":    0,
+
+		"point_goal_base":           50,
+		"point_goal_nightly":        0,
+		"randomize_minigames":	     false,
+
+		"do_custom_description":     true,
+		"custom_desc":               "You start each night with a Beartrap, but dying will immediately end your run. Start with $10 less, but tokens gained from blocking animatronics is multiplied by 1.25x.\n(Start with Funtime Freddy, and Air Adventure & Circus Sorter.)",
+	}
 }

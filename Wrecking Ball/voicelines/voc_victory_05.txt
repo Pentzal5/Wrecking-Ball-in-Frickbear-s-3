@@ -1,0 +1,4 @@
+[
+	[ "Soon you'll see it," , 0 ],
+	[ "See it shining!" , 1.6 ]
+]
