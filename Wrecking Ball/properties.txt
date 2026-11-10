@@ -62,6 +62,6 @@
 		"randomize_minigames":	     false,
 
 		"do_custom_description":     true,
-		"custom_desc":               "You start each night with a Beartrap, but dying will immediately end your run. Start with $10 less, but tokens gained from blocking animatronics is multiplied by 1.25x.\n(Start with Funtime Freddy, and Air Adventure & Circus Sorter.)",
+		"custom_desc":               "You start each night with a Beartrap, but dying will immediately end your run. Start with $10 less, but tokens gained from blocking animatronics are multiplied by 1.25x.\n(Start with Funtime Freddy, and Air Adventure & Circus Sorter.)",
 	}
 }
